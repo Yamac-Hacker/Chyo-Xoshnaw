@@ -7,8 +7,12 @@ Baby Not Easy Encrypt
 
 
 
-cd                                      
+cd                    
+
 rm -rf Chyo-Xoshnaw
+
 git clone https://github.com/Yamac-Hacker/Chyo-Xoshnaw
+
 cd Chyo-Xoshnaw
+
 python xoshnawx-Enc.pyc
