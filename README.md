@@ -4,6 +4,7 @@ Hard Script To Crack Facebook Crack File
 
 Baby Not Easy Encrypt 
 
+if you decode my script i'll fuck your sister💀
 
 Commands
 
